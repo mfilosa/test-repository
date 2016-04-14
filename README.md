@@ -1,5 +1,5 @@
 # test-repository
 
-Hello, I'm Kyle! 
+Hello, I am Kyle! 
 
 [Find me on GitHub](https://github.com/kylemacey)
